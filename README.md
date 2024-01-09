@@ -1,4 +1,4 @@
-#Demo:
+# Demo:
 
 https://simon-game-daniel-diaz.netlify.app/
 
